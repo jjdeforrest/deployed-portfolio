@@ -9,12 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jjdeforrest/deployed-portfolio.git"
+    "url": "git+https://github.com/ncarignan/deployed-portfolio.git"
   },
-  "author": "",
+  "author": "nicholas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jjdeforrest/deployed-portfolio/issues"
+    "url": "https://github.com/ncarignan/deployed-portfolio/issues"
   },
-  "homepage": "https://github.com/jjdeforrest/deployed-portfolio#readme"
+  "homepage": "https://github.com/ncarignan/deployed-portfolio#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
